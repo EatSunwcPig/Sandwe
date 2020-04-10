@@ -1,8 +1,14 @@
 <template>
   <div id="app">
-    Welcome to SandWe Music
+    <router-view></router-view>
   </div>
 </template>
 
-<style lang="less" s>
+<script>
+export default {
+  name: 'app'
+}
+</script>
+
+<style>
 </style>

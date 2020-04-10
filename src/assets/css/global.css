@@ -1,0 +1,25 @@
+html,
+body,
+#app {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    min-width: 1366px;
+}
+
+ul {
+    list-style: none;
+}
+
+.el-submenu {
+    font-size: 18px;
+}
+
+.el-menu-item {
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}

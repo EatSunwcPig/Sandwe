@@ -1,0 +1,16 @@
+{
+  "id": "1741942",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5076624",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
